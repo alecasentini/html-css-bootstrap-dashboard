@@ -45,7 +45,7 @@ header .form-control{
     background-color: #132940;
 }
 
-.sidebar p{
+p{
     margin-bottom: 0;
 }
 
@@ -55,6 +55,19 @@ main{
     position: absolute;
     right: 0;
     top: 60px;
+}
+
+.bg-sky{
+    background-color: #1B72E8;
+}
+
+.row{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.text-bg-primary{
+    background-color: #165BBA !important;
 }
 
 .form-check{
