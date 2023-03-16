@@ -104,7 +104,7 @@ main{
 }
 
 #blue-topbar .badge:hover{
-    opacity: 0.7;
+    filter: contrast(1.25);
     cursor: pointer;
 }
 
